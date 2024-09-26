@@ -15,7 +15,7 @@
         android:checkableBehavior="single">
         <item
             android:id="@+id/favoritesFragment"
-            android:icon="@drawable/favorite_menu"
+            android:icon="@drawable/baseline_coffee_24"
             android:title="@string/menu_favorites" />
     </group>
 </menu>
